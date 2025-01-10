@@ -30,16 +30,16 @@ This project demonstrates the use of AWS services to analyze an image stored in 
 ## :computer: Technologies Used
 - **Programming Language**: C# and AWS SDK for .NET
 - **AWS Services**:
-  - :inbox_tray: Amazon S3
-  - :cloud: AWS Lambda
-  - :camera: Amazon Rekognition
-  - :watch: AWS CloudWatch
+  -- :inbox_tray: Amazon S3
+  -- :cloud: AWS Lambda
+  -- :camera: Amazon Rekognition
+  -- :watch: AWS CloudWatch
 
 
 
 ## :triangular_ruler: Project Architecture
 ### Visual Representation:
-![Project Architecture](Insert flow diagram here)
+
 
 ### Explanation:
 - **Amazon S3**: Stores images uploaded by users.
