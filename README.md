@@ -101,8 +101,8 @@ Before getting started, ensure the following:
 ### Deploy the Lambda Function
 1.  Clone the GitHub repository:
 ``` bash
-git clone <repository_url>
-cd <repository_name>
+git clone <[repository_url](https://github.com/TanyaDThomas/Basic-Image-Recognition.git)>
+cd <Basic-Image-Recognition>
 ```
 2. Navigate to AWS Lambda in the AWS Console.
 3. Create a new Lambda function.
