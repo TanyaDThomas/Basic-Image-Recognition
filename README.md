@@ -134,12 +134,20 @@ cd <repository_name>
 }
 ```
 3. You can also test by uploading multiple images and verifying that each image triggers a corresponding Lambda execution.
-
+### Another Way to Test: 
+1. Got to the Lambda Function
+2. Make sure you are in the Code tab and click test
+3. Create a new event
+4. Put in an event name
+5. Save
+6. Click test
+7. You should see something close to the example as above.
 
    
 ## :books: Resources
-- AWS Rekognition Documentation
-- AWS S3 Documentation
-- AWS Lambda Documentation
+- [AWS Rekognition Documentation](https://docs.aws.amazon.com/rekognition/latest/dg/Welcome.html)
+- [AWS S3 Documentation](https://docs.aws.amazon.com/s3/index.html)
+- [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
+- [AWS SDK for .NET Rekognition Code Examples](https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/csharp_rekognition_code_examples.html#actions)
 
   
